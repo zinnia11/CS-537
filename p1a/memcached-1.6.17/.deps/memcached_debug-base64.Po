@@ -1,0 +1,10 @@
+memcached_debug-base64.o: base64.c \
+  /Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include/stddef.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include/__stddef_max_align_t.h \
+  base64.h
+
+/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include/stddef.h:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include/__stddef_max_align_t.h:
+
+base64.h:
